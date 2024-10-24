@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cefikime.github.io/sitemap/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/SmE/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/qXk/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/uki/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/RiB/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/jtR/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/UwQ/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/uyw/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/xJh/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/ifN/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/BOH/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/kQf/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/QWR/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/xDE/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/nrc/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/oia/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/CmM/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/OTU/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/NFB/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/KcQ/sitemap_index.cefikime
+Sitemap: https://cefikime.github.io/Mvs/sitemap_index.cefikime
